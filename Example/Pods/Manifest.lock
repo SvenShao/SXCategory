@@ -1,0 +1,14 @@
+PODS:
+  - SXCategory (0.1.0)
+
+DEPENDENCIES:
+  - SXCategory (from `../`)
+
+EXTERNAL SOURCES:
+  SXCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SXCategory: 2d3ab87c8f131d67fe1d5e814689d5116a141ac4
+
+COCOAPODS: 0.39.0
