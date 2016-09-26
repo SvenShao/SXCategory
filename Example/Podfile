@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SXCategory_Tests' do
+  pod 'SXCategory', :path => '../'
+  
+  
+end
