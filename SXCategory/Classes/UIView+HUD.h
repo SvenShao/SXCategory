@@ -10,11 +10,11 @@
 
 @interface UIView (HUD)
 
-//- (void)displayHUD:(NSString *)text;
-//- (void)hideHUD:(BOOL)animated;
-//- (void)displayHUDError:(NSString *)title message:(NSString *)message __deprecated;//命名不太好，不一定用于显示error的，所以用下面的方法替代
-//- (void)displayHUDTitle:(NSString *)title message:(NSString *)message;
-//- (void)displayHUDTitle:(NSString *)title message:(NSString *)message duration:(CGFloat)duration;
+- (void)displayHUD:(NSString *)text;
+- (void)hideHUD:(BOOL)animated;
+- (void)displayHUDError:(NSString *)title message:(NSString *)message __deprecated;//命名不太好，不一定用于显示error的，所以用下面的方法替代
+- (void)displayHUDTitle:(NSString *)title message:(NSString *)message;
+- (void)displayHUDTitle:(NSString *)title message:(NSString *)message duration:(CGFloat)duration;
 
 
 @end
