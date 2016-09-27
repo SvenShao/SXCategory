@@ -1,6 +1,7 @@
 use_frameworks!
+
 target 'SXCategory_Tests' do
-  pod 'SXCategory', :path => '../'
-  
+  pod 'SXCategory', '~> 0.1.1'
+
   
 end
