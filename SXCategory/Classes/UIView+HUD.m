@@ -7,7 +7,6 @@
 //
 
 #import "UIView+HUD.h"
-#import "UIViewController+HUD.h"
 #import "MBProgressHUD+Appearance.h"
 
 @implementation UIView (HUD)
