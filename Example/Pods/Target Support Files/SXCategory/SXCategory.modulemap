@@ -1,6 +1,0 @@
-framework module SXCategory {
-  umbrella header "SXCategory-umbrella.h"
-
-  export *
-  module * { export * }
-}

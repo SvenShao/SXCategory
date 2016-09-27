@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'SXCategory_Tests' do
-  pod 'SXCategory', '~> 0.1.1'
+  pod 'SXCategory', '~> 0.1.3'
 
   
 end

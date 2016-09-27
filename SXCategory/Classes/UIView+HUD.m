@@ -72,7 +72,7 @@
 
 - (MBProgressHUD *)HUD
 {
-    [self.view HUD];
+    return [self.view HUD];
 }
 
 - (void)displayHUDError:(NSString *)title message:(NSString *)message

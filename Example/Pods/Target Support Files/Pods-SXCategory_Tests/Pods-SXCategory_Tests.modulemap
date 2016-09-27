@@ -1,6 +1,0 @@
-framework module Pods_SXCategory_Tests {
-  umbrella header "Pods-SXCategory_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
